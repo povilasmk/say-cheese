@@ -1,1 +1,1 @@
-'mano tekstas cia'
+'naujas tekstas'
